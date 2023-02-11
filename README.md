@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qp8fa9zgyqk2x3hvxac0h6q36n2baqwmofuua2nj&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qp8fa9zgyqk2x3hvxac0h6q36n2baqwmofuua2nj&rid=giphy.gif&ct=g" width="1000"/>
 </div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
